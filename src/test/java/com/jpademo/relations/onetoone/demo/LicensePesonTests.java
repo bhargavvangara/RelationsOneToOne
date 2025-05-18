@@ -14,7 +14,7 @@ import com.jpademo.relations.onetoone.demo.repo.LicenseRepo;
 import com.jpademo.relations.onetoone.demo.repo.PersonRepo;
 
 @SpringBootTest
-class RelationsOneToOneApplicationTests {
+class LicensePesonTests {
 	@Autowired
 	PersonRepo personRepo;
 	
